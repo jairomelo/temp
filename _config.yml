@@ -20,12 +20,12 @@ source-code: https://github.com/YeaOrtiz/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: voces de las víctimas 
+title: Voces de las víctimas 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: vícitmas de la violencia que formaron parte del MPJD
+tagline: Vícitmas de la violencia que formaron parte del MPJD
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Aqui encontraran entrevistas transcritas y los audios de algunas vícitmas de la violencia que formaron parte del Movimiento por la Paz con Justicia y Dignidad "
+description: "Aqui encontrarán entrevistas transcritas y los audios de algunas vícitmas de la violencia que formaron parte del Movimiento por la Paz con Justicia y Dignidad "
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: YeaOrtiz
 
