@@ -1,6 +1,7 @@
-﻿archivo,nombre del archivo,formato ,Título ,descripción ,fecha
-,entrevista_00,txt,Entrevista a Araceli Rodríguez,"Transcripción de la entrevista realizada a Araceli Rodríguez Nava, vícitma de la violencia en México ",17/02/16
-,entrevista_01,txt,Entrevista a Juan Carlos Trujillo,"Transcripción de la entrevsita a Carlos Trujillo, víctima y fundado de Familiares en Búsqueda María Herrera A.C. ",09/08/15
-,entrevista_02,txt,Entrevista a Eduardo Gallo,"Transcripción de la entrevista a Eduardo Gallo y Tello, víctima de la violencia. ",30/05/15
-,entrevista_juan_carlos_trujillo_00,mp3,Entrevista a Juan Carlos Trujillo,Audio del primera apartado de la entrevista realizada a Juan Carlos Trujillo ,09/08/15
-,entrevista_juan_carlos_trujillo_01,mp3,Entrevista a Juan Carlos Trujillo,Audio del segundo apartado de la entrevista realizada a Juan Carlos Trujillo ,09/08/15
+﻿colección,nombre del archivo,formato ,Título ,descripción ,fecha
+victimas001,entrevista_00,txt,Entrevista a Araceli Rodríguez,"Transcripción de la entrevista realizada a Araceli Rodríguez Nava, vícitma de la violencia en México ",17/02/16
+victimas002,entrevista_01,txt,Entrevista a Juan Carlos Trujillo,"Transcripción de la entrevsita a Carlos Trujillo, víctima y fundado de Familiares en Búsqueda María Herrera A.C. ",09/08/15
+victimas003,entrevista_02,txt,Entrevista a Eduardo Gallo,"Transcripción de la entrevista a Eduardo Gallo y Tello, víctima de la violencia. ",30/05/15
+victimas004,entrevista_juan_carlos_trujillo_00,mp3,Entrevista a Juan Carlos Trujillo,Audio del primera apartado de la entrevista realizada a Juan Carlos Trujillo ,09/08/15
+victimas005,logo_movimiento_01,jpg,Logo del MPJD,Es la imagen de uno de los logos del Movimiento por la Paz con Justicia y Diginidad,25/08/11
+victimas006,entrevista_003,pdf,Entrevista a Norma Garduño y Gerardo Gómez,Transcripcion de la entrevista realizada a Norma Garduño y Gerardo Gómez de la plataforma de pueblos originariso del MPJD,04/11/16
