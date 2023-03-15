@@ -1,7 +1,7 @@
 objectid,filename,format,title,description,date,subject
-victimas001,entrevista_00.pdf,pdf,Entrevista a Araceli Rodríguez,"Transcripción de la entrevista realizada a Araceli Rodríguez Nava, vícitma de la violencia en México ",2016-02-17,víctima; desaparición; ejército
-victimas002,entrevista_01.pdf,pdf,Entrevista a Juan Carlos Trujillo,"Transcripción de la entrevsita a Carlos Trujillo, víctima y fundado de Familiares en Búsqueda María Herrera A.C. ",2015-08-09, víctima; Guerrero; desaparición forzada
-victimas003,entrevista_02.pdf,pdf,Entrevista a Eduardo Gallo,"Transcripción de la entrevista a Eduardo Gallo y Tello, víctima de la violencia. ",2015-05-30,víctima; desaparición; marcha blanca; MPJD
-victimas004,entrevista_03.pdf,pdf,Entrevista a Norma Garduño y Gerardo Gómez,Transcripción de la entrevista realizada a Norma Garduño y Gerardo Gómez de la plataforma de pueblos originariso del MPJD,2016-11-04,pueblos originarios; MPJD; víctimas; desplazamiento
-victimas005,entrevista_juan_carlos_trujillo_00.mp3,mp3,Entrevista a Juan Carlos Trujillo,Audio del primera apartado de la entrevista realizada a Juan Carlos Trujillo ,2015-08-09, víctima; Guerrero; entrevista
-victimas006,logo_movimiento_01.jpg,jpg,Logo del MPJD,Es la imagen de uno de los logos del Movimiento por la Paz con Justicia y Diginidad,2011-08-25, logo
+victimas001,entrevista_00.pdf,application/pdf,Entrevista a Araceli Rodríguez,"Transcripción de la entrevista realizada a Araceli Rodríguez Nava, vícitma de la violencia en México ",2016-02-17,víctima; desaparición; ejército
+victimas002,entrevista_01.pdf,application/pdf,Entrevista a Juan Carlos Trujillo,"Transcripción de la entrevsita a Carlos Trujillo, víctima y fundado de Familiares en Búsqueda María Herrera A.C. ",2015-08-09, víctima; Guerrero; desaparición forzada
+victimas003,entrevista_02.pdf,application/pdf,Entrevista a Eduardo Gallo,"Transcripción de la entrevista a Eduardo Gallo y Tello, víctima de la violencia. ",2015-05-30,víctima; desaparición; marcha blanca; MPJD
+victimas004,entrevista_03.pdf,application/pdf,Entrevista a Norma Garduño y Gerardo Gómez,Transcripción de la entrevista realizada a Norma Garduño y Gerardo Gómez de la plataforma de pueblos originariso del MPJD,2016-11-04,pueblos originarios; MPJD; víctimas; desplazamiento
+victimas005,entrevista_juan_carlos_trujillo_00.mp3,audio/mp3,Entrevista a Juan Carlos Trujillo,Audio del primera apartado de la entrevista realizada a Juan Carlos Trujillo ,2015-08-09, víctima; Guerrero; entrevista
+victimas006,logo_movimiento_01.jpg,image/jpg,Logo del MPJD,Es la imagen de uno de los logos del Movimiento por la Paz con Justicia y Diginidad,2011-08-25, logo
