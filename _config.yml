@@ -20,14 +20,14 @@ source-code: https://github.com/jairomelo/temp
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Visiones del conflicto
+title: Voces de las víctimas 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Colección audiovisual para la historia del conflicto armado en Colombia
+tagline: Víctimas de la violencia que formaron parte del MPJD
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: Esta colección recopila una serie de videos disponibles en Youtube publicados por partícipes, testigos o como documento periodístico del conflicto armado en Colombia desde 2005 hasta la fecha.
+description: "Aqui encontrarán entrevistas transcritas y los audios de algunas víctimas de la violencia que formaron parte del Movimiento por la Paz con Justicia y Dignidad "
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: JAMF
+author: YeaOrtiz
 
 ##########
 # COLLECTION SETTINGS
